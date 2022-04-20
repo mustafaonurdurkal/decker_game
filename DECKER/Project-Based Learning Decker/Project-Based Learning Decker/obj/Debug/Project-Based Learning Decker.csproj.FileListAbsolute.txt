@@ -1,0 +1,7 @@
+C:\Users\MT-PC\source\repos\Project-Based Learning Decker\Project-Based Learning Decker\bin\Debug\Project-Based Learning Decker.exe.config
+C:\Users\MT-PC\source\repos\Project-Based Learning Decker\Project-Based Learning Decker\bin\Debug\Project-Based Learning Decker.exe
+C:\Users\MT-PC\source\repos\Project-Based Learning Decker\Project-Based Learning Decker\bin\Debug\Project-Based Learning Decker.pdb
+C:\Users\MT-PC\source\repos\Project-Based Learning Decker\Project-Based Learning Decker\obj\Debug\Project-Based Learning Decker.csprojResolveAssemblyReference.cache
+C:\Users\MT-PC\source\repos\Project-Based Learning Decker\Project-Based Learning Decker\obj\Debug\Project-Based Learning Decker.csproj.CoreCompileInputs.cache
+C:\Users\MT-PC\source\repos\Project-Based Learning Decker\Project-Based Learning Decker\obj\Debug\Project-Based Learning Decker.exe
+C:\Users\MT-PC\source\repos\Project-Based Learning Decker\Project-Based Learning Decker\obj\Debug\Project-Based Learning Decker.pdb
